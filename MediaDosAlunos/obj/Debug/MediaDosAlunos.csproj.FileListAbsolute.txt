@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\bin\Debug\MediaDosAlunos.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\bin\Debug\MediaDosAlunos.exe
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\bin\Debug\MediaDosAlunos.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\obj\Debug\MediaDosAlunos.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\obj\Debug\MediaDosAlunos.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\obj\Debug\MediaDosAlunos.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\obj\Debug\MediaDosAlunos.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\obj\Debug\MediaDosAlunos.exe
+c:\users\aluno\documents\visual studio 2015\Projects\MediaDosAlunos\MediaDosAlunos\obj\Debug\MediaDosAlunos.pdb
